@@ -1,0 +1,9 @@
+{
+    "owner": {
+        "username": "Tepexic"
+    },
+    "records": {
+        "RECORDTYPE": "CNAME",
+        "RECORDCONTENT" : "tepexic.github.io"
+    }
+}
